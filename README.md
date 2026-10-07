@@ -20,7 +20,7 @@ Cast the Vedic birth chart for someone born on 12 November 1985 at 06:45 in Mumb
 Give me the ascendant, the Moon's nakshatra, and the sign and degree of Saturn.
 ```
 
-The correct answer, published with the full working at [asterwise.com/proof](https://asterwise.com/proof/): ascendant Libra 25.30°, Moon in Swati, Saturn in Scorpio 5.74° (Lahiri ayanamsa). Before connecting, Claude's answer is a guess and will usually differ. After connecting, it calls `asterwise_get_natal_chart` and matches.
+The correct answer, published with the full working at [asterwise.com/proof](https://asterwise.com/proof/): ascendant Libra 25.30°, Moon in Swati, Saturn in Scorpio 5.75° (Lahiri ayanamsa). Before connecting, Claude's answer is a guess and will usually differ. After connecting, it calls `asterwise_get_natal_chart` and matches.
 
 ## Core prompts
 
