@@ -4,7 +4,7 @@ Claude can talk about astrology fluently, but it cannot compute where the planet
 
 These prompts are the ones that reliably trigger the right tool. Copy them, replace the birth details, and keep the phrasing; the wording is what steers Claude to the tool rather than to its memory.
 
-Tutorial: [asterwise.com/blog/give-claude-a-real-birth-chart](https://asterwise.com/blog/give-claude-a-real-birth-chart/)
+Worked example with the full chart: [asterwise.com/proof](https://asterwise.com/proof/)
 
 ## Connect first
 
